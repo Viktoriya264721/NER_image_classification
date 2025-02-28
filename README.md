@@ -31,5 +31,10 @@ Here is some Exploratory Data Analysis:
 - Achieved 98.91% accuracy on the test data.
 
 ## Task 2 - Named entity recognition + image classification 
-   
-   
+   For this task, I created a balanced dataset with 10 animal classes to train the Named Entity Recognition (NER) model. The $text$ column contains sentences, each featuring either one animal or no animals at all. The $marker$ column stores the index of the animal's position within the sentence.
+
+![image](https://github.com/user-attachments/assets/094aff11-acbb-402b-9f5e-9b9f86cb548c)
+![image](https://github.com/user-attachments/assets/a9c84dc0-647b-4878-b8e5-43138d10ad99)
+![image](https://github.com/user-attachments/assets/07a29dbc-9228-4b4e-bd0c-cb1fbaea333b)
+
+
