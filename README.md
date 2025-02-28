@@ -5,7 +5,8 @@ In the first task I used MNIST dataset and built 3 classification models around 
 
 Here is some Exploratory Data Analysis:
 
-![Images of numbers for train dataset](train_images.png)
+![image](https://github.com/user-attachments/assets/7b3b17ba-2a70-47de-8b9e-5fd0d4ccff2f)
+
 1) Random Forest;
    
    Here I used Grid Search for findng the best parameters and the accuracy of the model is 96.26%
