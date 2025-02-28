@@ -1,8 +1,8 @@
 # NER_image_classification
 First of all, you should install the requirements
-
-   $ pip install -r requirements.txt$
-
+```
+   $ pip install -r requirements.txt
+```
 ## Task 1 - Image classification + OOP
 In the first task I used MNIST dataset and built 3 classification models around it.
 
