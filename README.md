@@ -10,16 +10,22 @@ Here is some Exploratory Data Analysis:
 ![image](https://github.com/user-attachments/assets/6d9a6cc0-0e0f-42b9-8e08-c155bcd654ad)
 ![image](https://github.com/user-attachments/assets/f79f71af-dc74-43ff-803a-b1ed4e9ca250)
 
-1) Random Forest;
+### Model Performance Summary
+
+1. Random Forest
    
-   Here I used Grid Search for findng the best parameters and the accuracy of the model is 96.26%
-3) Feed-Forward Neural Network;
-   
-   Accuracy on test data for FFNN: 97.95%
-5) Convolutional Neural Network;
-   
-   For these models I used train/validation loss approach to find the best parameters.
-   Accuracy on test data for CNN: 98.91%
+- Used Grid Search to find the optimal hyperparameters.
+- Achieved 96.26% accuracy on the test data.
+
+2. Feed-Forward Neural Network (FFNN)
+
+- Applied a train/validation loss approach to fine-tune hyperparameters.
+- Achieved 97.95% accuracy on the test data.
+
+3. Convolutional Neural Network (CNN)
+
+- Applied a train/validation loss approach to fine-tune hyperparameters.
+- Achieved 98.91% accuracy on the test data.
 
 ## Task 2
    
