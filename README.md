@@ -1,6 +1,9 @@
 # NER_image_classification
+First of all, you should install the requirements
 
-## Task 1
+   $ pip install -r requirements.txt
+
+## Task 1 - Image classification + OOP
 In the first task I used MNIST dataset and built 3 classification models around it.
 
 Here is some Exploratory Data Analysis:
@@ -27,6 +30,6 @@ Here is some Exploratory Data Analysis:
 - Applied a train/validation loss approach to fine-tune hyperparameters.
 - Achieved 98.91% accuracy on the test data.
 
-## Task 2
+## Task 2 - Named entity recognition + image classification 
    
    
